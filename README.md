@@ -1,6 +1,6 @@
 # Carzone Spider
 
-Spider to Scrape carzone.ie and to extract:
+Spider to scrape carzone.ie and to extract:
 
  - images
  - make
